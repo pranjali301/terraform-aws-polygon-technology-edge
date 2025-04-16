@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/0xPolygon/polygon-edge/develop/.github/banner.jpg" alt="Polygon Edge" width="100%">
 </p>
 
-# Polygon Edge AWS Terraform
+# Polygon Edge AWS Terraformmm
 
 Polygon Edge is a modular and extensible framework for building Ethereum-compatible blockchain networks.
 
